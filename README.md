@@ -44,8 +44,7 @@ Once everything is ready, open your browser and go to:
 ```markdown
 # 📁 Project Folder Structure — Booksactivity
 
-```
-
+```markdown
 Booksactivity/
 │
 ├── assets/
@@ -102,10 +101,7 @@ Booksactivity/
 ├── database_setup.sql
 ├── index.php
 └── readMe.md
-
 ```
-```
-
 
 ---
 
