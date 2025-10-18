@@ -98,8 +98,7 @@ Booksactivity/
 │       └── updateStudent.php
 │
 ├── database_setup.sql
-├── index.php
-└── readMe.md
+└── index.php
 ```
 
 ---
