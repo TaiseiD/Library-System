@@ -41,7 +41,6 @@ Once everything is ready, open your browser and go to:
 
 ---
 
-```markdown
 # 📁 Project Folder Structure — Booksactivity
 
 ```markdown
